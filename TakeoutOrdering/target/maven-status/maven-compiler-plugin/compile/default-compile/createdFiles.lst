@@ -1,0 +1,9 @@
+com\cmpe\lab2Project\dao\config\ProfileDaoAndServiceConfig.class
+com\cmpe\lab2Project\dao\ProfileDaoImpl.class
+com\cmpe\lab2Project\controller\ProfileController.class
+com\cmpe\lab2Project\model\Profile.class
+com\cmpe\lab2Project\config\ProfileInitializer.class
+com\cmpe\lab2Project\service\ProfileService.class
+com\cmpe\lab2Project\service\ProfileServiceImpl.class
+com\cmpe\lab2Project\config\WebAppConfig.class
+com\cmpe\lab2Project\dao\ProfileDao.class
